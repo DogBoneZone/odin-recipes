@@ -1,0 +1,21 @@
+/* styles.css */
+
+html {
+    margin: 10px 10%;
+    background-color: rgba(255, 248, 220, 0.616);
+}
+div {
+    margin: 20px 0px;
+}
+.divflexbox {
+    display: flex;
+    align-items: center;
+}
+.divflexbox .recipeheaderlink {
+    margin: 0 15px;
+}
+.freddurstheader {
+    height: 150px;
+    width: auto;
+    margin: 0 15px 0 0;
+}
